@@ -174,39 +174,3 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
 ```
-
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/9e3bc77fa8063834e80fca908e1fb49b
-
-## Sample Solution:
-
-https://github.com/melvincabatuan/FullBodyDetection
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-## Screenshots
-
-![screenshot](fb-2015-06-22-145854.png)
-
-![screenshot](fb-2015-06-22-151155.png)
-
-![screenshot](fb-2015-06-22-151456.png)
-
-![screenshot](fb-2015-06-22-151710.png)
-
-![screenshot](fb-2015-06-22-152609.png)
-
-"*I don't care if it works on your machine! We are not shipping your machine!*" -  Vidiu Platon
